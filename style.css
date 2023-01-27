@@ -2,6 +2,7 @@ body {
     font-family: Arial;
     text-align: center;
     color:black;
+    background-image: radial-gradient(blue, red);
 }
 
 h1 {
@@ -11,7 +12,6 @@ h1 {
 div {
     width: 600px;
     height: 600px;
-    border: 1px solid green;
     margin: 50px auto;
     background-color: red;
     background-image: url(images/NotAyo123_ProfilePicture.png);
